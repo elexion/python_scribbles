@@ -120,7 +120,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-
-#Death knight, Demon hunter, druid, hunter, mage, monk,
-#paladin, priest, rogue, shaman, warlock, warrrior.
